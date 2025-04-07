@@ -61,7 +61,7 @@ This tab provides a **spatial interface** to explore traffic accident locations:
 
 ## 📦 Data Preparation
 
-All data preparation steps are documented in the **`Data preparation`** folder.
+All data preparation steps are documented in the **`Data`** folder.
 
 ### 🔍 Steps Included:
 
