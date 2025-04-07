@@ -100,6 +100,7 @@ All data preparation steps are documented in the **`Data preparation`** folder.
 This project showcases the following technical skills:
 
 - **Data wrangling**: transforming real-world messy datasets into clean analytical tables
+- **Data visualization**: building intuitive, interactive charts using plotly, leaflet to communicate key patterns clearly
 - **Geospatial analysis**: spatial joins, buffering, and visualization
 - **Multi-language integration**: combining Python for spatial data and R for interactive web development
 - **Interactive web development**: building fully responsive dashboards using Shiny
