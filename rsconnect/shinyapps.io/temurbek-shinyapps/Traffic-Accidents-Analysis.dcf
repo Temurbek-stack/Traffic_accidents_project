@@ -1,0 +1,12 @@
+name: traffic-accidents-analysis
+title: traffic-accidents-analysis
+username: temurbek-shinyapps
+account: temurbek-shinyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14447734
+bundleId: 10069442
+url: https://temurbek-shinyapps.shinyapps.io/traffic-accidents-analysis/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

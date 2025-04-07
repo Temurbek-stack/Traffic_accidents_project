@@ -1,0 +1,14 @@
+name: linktraffic
+title: linktraffic
+username:
+account: linkdata
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11194798
+bundleId: 8243630
+url: https://linkdata.shinyapps.io/linktraffic/
+when: 1707670012.66369
+lastSyncTime: 1707670012.6637
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 6.png|8.png|traffic
